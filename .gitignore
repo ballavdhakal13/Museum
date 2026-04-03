@@ -1,0 +1,85 @@
+# =========================
+# Unity Generated Folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# =========================
+# MemoryCaptures (Profiler)
+# =========================
+MemoryCaptures/
+
+# =========================
+# Asset meta files (IMPORTANT: keep .meta)
+# =========================
+# Do NOT ignore .meta files
+!*.meta
+
+# =========================
+# Visual Studio / VS Code
+# =========================
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# VS Code
+.vscode/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Crash Reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Builds
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+
+# =========================
+# Large files (optional)
+# =========================
+*.zip
+*.rar
+*.7z
+*.tar
+
+# =========================
+# Addressables / Cache
+# =========================
+ServerData/
+StreamingAssets/aa.meta
+StreamingAssets/aa/
+
+# =========================
+# Rider / JetBrains
+# =========================
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
